@@ -72,7 +72,8 @@ li a {
 }
 
 #home {
-  background: linear-gradient(
+  background:
+    linear-gradient(
       0deg,
       rgb(245 245 245 / 94%),
       rgb(235 235 235 / 95%)

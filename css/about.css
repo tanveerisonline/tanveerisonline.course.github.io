@@ -5,13 +5,19 @@ body {
 }
 
 .about-section {
-  background: linear-gradient(rgba(255, 255, 255, 0.2), rgba(0, 0, 0, 0.2)),
+  background:
+    linear-gradient(rgba(255, 255, 255, 0.2), rgba(0, 0, 0, 0.2)),
     url(/Capstone-Project/assets/Ellipse.svg),
     url(/Capstone-Project/assets/checkbox.svg),
     url(/Capstone-Project/assets/patt.svg);
   background-repeat: no-repeat;
-  background-position: center, bottom 58% left 9rem, right 18rem top 78%,
-    top 28% right 90rem, top 20% center, top 80% center;
+  background-position:
+    center,
+    bottom 58% left 9rem,
+    right 18rem top 78%,
+    top 28% right 90rem,
+    top 20% center,
+    top 80% center;
   background-size: 100%, 6rem, 7rem, 4rem, 6rem, 14rem;
   background-attachment: fixed;
 }
@@ -98,7 +104,8 @@ h4 {
 
 .placement-left {
   background: #cb4633;
-  background: linear-gradient(rgba(240, 240, 240, 0.39), rgba(241, 0, 0, 0.589)),
+  background:
+    linear-gradient(rgba(240, 240, 240, 0.39), rgba(241, 0, 0, 0.589)),
     url("../Images/Top-developer-skilles-2021.jpg");
   background-size: cover;
   margin-bottom: 30px;
@@ -108,7 +115,8 @@ h4 {
 
 .placement-right {
   background: #cb4633;
-  background: linear-gradient(rgba(240, 240, 240, 0.39), rgba(241, 0, 0, 0.589)),
+  background:
+    linear-gradient(rgba(240, 240, 240, 0.39), rgba(241, 0, 0, 0.589)),
     url("../Images/Sop-dev-2.webp");
   background-size: cover;
   margin-bottom: 30px;
